@@ -31,12 +31,6 @@ Your website must meet the following requirements.
 
 - **Aesthetics**: The CSS you write should match Google’s own aesthetics as best as possible.
 
-## Built using
-
-- HTML
-- CSS
-- Sass
-
 ## Demo
 
 [Click Here](https://youtu.be/zoP0GsIacrI)
