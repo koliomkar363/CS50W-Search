@@ -41,10 +41,6 @@ Your website must meet the following requirements.
 
 [Click Here](https://youtu.be/zoP0GsIacrI)
 
-## License
-
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
